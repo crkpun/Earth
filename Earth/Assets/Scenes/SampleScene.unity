@@ -1020,7 +1020,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 519420030}
+      - m_Target: {fileID: 237491287}
         m_MethodName: MoveToRight
         m_Mode: 1
         m_Arguments:
@@ -1942,7 +1942,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 519420030}
+      - m_Target: {fileID: 237491287}
         m_MethodName: MoveToLeft
         m_Mode: 1
         m_Arguments:
